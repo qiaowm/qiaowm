@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Weiming Qiao, a senior undergraduate student at Fudan University, majoring in Artificial Intelligence.  
 - 🔭 I’m currently working with the Human Language Technology Group at Harbin Institute of Technology (Shenzhen), advised by Prof. Ruifeng Xu, and will pursue my Master’s degree there.  
-- 🌱 My research focuses on LLM Agents, Affective Computing, and Argument Analysis — exploring how intelligent systems can understand reasoning, emotion, and human intent.
+- 🌱 My research focuses on Large Language Models and Agent Memory — exploring how intelligent systems can store, retrieve, and leverage memory to enhance reasoning and long-horizon task completion.
 - 📫 How to reach me: weimingqiao02@gmail.com
