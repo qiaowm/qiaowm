@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 👋 Hi, I'm Weiming Qiao, a senior undergraduate student at Fudan University, majoring in Artificial Intelligence.  
-- 🔭 I’m currently working with the Human Language Technology Group at Harbin Institute of Technology (Shenzhen), advised by Prof. Ruifeng Xu, and will pursue my Master’s degree there.  
-- 🌱 My research focuses on Large Language Models and Agent Memory — exploring how intelligent systems can store, retrieve, and leverage memory to enhance reasoning and long-horizon task completion.
+- 👋 Hi, I'm Weiming Qiao, a Master's student at Harbin Institute of Technology (Shenzhen).
+- 🔭 I’m currently a member of the Human Language Technology Group, advised by Prof. Ruifeng Xu.
+- 🌱 My research focuses on Large Language Models, Multimodal Models, and AI Agents.
 - 📫 How to reach me: weimingqiao02@gmail.com
